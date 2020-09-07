@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2020-09-07T06:10:45.008662Z"
+    },
+    "appInsights1": {
+      "restored": true,
+      "restoreTime": "2020-09-07T06:12:08.4052049Z"
+    }
+  },
+  "parameters": {
+    "appInsights1.subscriptionId": {
+      "Type": "subscription",
+      "Value": "ce6136bb-c550-433c-935e-2504c0fbfb13"
+    },
+    "appInsights1.resourceGroupName": {
+      "Type": "resourceGroup",
+      "Value": "AI_v-fanfa_09072020_SDKTest"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <UserSecretsId>2b04e248-1799-4764-bb93-9168579e968f</UserSecretsId>
+    <ApplicationInsightsResourceId>/subscriptions/ce6136bb-c550-433c-935e-2504c0fbfb13/resourceGroups/AI_v-fanfa_09072020_SDKTest/providers/microsoft.insights/components/fang0907SDK</ApplicationInsightsResourceId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.15.0-beta3" />
+  </ItemGroup>
+
+</Project>
